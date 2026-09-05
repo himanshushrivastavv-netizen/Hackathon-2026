@@ -1,0 +1,80 @@
+{
+  "name": "projects/agromitra-frontend",
+  "projectId": "agromitra-mobile-app",
+  "title": "AgroMitra Mobile App Frontend",
+  "visibility": "PUBLIC",
+  "deviceType": "MOBILE",
+  "designTheme": {
+    "colorMode": "LIGHT",
+    "font": "INTER",
+    "roundness": "ROUND_TWENTY",
+    "customColor": "#2E7D32",
+    "accentColor": "#F9A825"
+  },
+  "screens": {
+    "language": {
+      "id": "screen-language-01",
+      "route": "/language"
+    },
+    "landing": {
+      "id": "screen-landing-02",
+      "route": "/landing"
+    },
+    "farmer_auth": {
+      "id": "screen-farmer-auth-03",
+      "route": "/farmer-auth"
+    },
+    "buyer_auth": {
+      "id": "screen-buyer-auth-04",
+      "route": "/buyer-auth"
+    },
+    "farmer_home": {
+      "id": "screen-farmer-home-05",
+      "route": "/farmer-home"
+    },
+    "mandi_prices": {
+      "id": "screen-mandi-prices-06",
+      "route": "/mandi-prices"
+    },
+    "sell_produce": {
+      "id": "screen-sell-produce-07",
+      "route": "/sell-produce"
+    },
+    "my_listings": {
+      "id": "screen-my-listings-08",
+      "route": "/my-listings"
+    },
+    "schemes_hub": {
+      "id": "screen-schemes-hub-09",
+      "route": "/schemes"
+    },
+    "scheme_details": {
+      "id": "screen-scheme-details-10",
+      "route": "/scheme-details"
+    },
+    "farmer_profile": {
+      "id": "screen-farmer-profile-11",
+      "route": "/farmer-profile"
+    },
+    "buyer_home": {
+      "id": "screen-buyer-home-12",
+      "route": "/buyer-home"
+    },
+    "buyer_search": {
+      "id": "screen-buyer-search-13",
+      "route": "/buyer-search"
+    },
+    "buyer_listing_details": {
+      "id": "screen-buyer-listing-details-14",
+      "route": "/buyer-listing-details"
+    },
+    "buyer_profile": {
+      "id": "screen-buyer-profile-15",
+      "route": "/buyer-profile"
+    },
+    "admin_dashboard": {
+      "id": "screen-admin-dashboard-16",
+      "route": "/admin-dashboard"
+    }
+  }
+}
